@@ -1,8 +1,5 @@
 ### Hi there, I'm Christie 👋
 
-<!--
-**ChristieGriffiths/christiegriffiths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - 💻 I'm looking forward to landing my first job as a junior developer.
 - ✅ I love TDD! 
@@ -11,7 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning - Java, Python
 - 🤓 If you wish to collaborate on any project, please reach out!
 - 📫 You can reach me here: christiegriffiths@outlook.com
--->
 
 ### Languages and Tools:
 
