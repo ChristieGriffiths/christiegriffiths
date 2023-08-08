@@ -1,6 +1,5 @@
 ### Hi there, I'm Christie 👋
 
-Here are some ideas to get you started:
 - 💻 I'm looking forward to landing my first job as a junior developer.
 - ✅ I love TDD! 
 - 🔄 I’m a career switcher who used to work as a carer.
@@ -8,7 +7,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning - Java, Python
 - 🤓 If you wish to collaborate on any project, please reach out!
 - 📫 You can reach me here: christiegriffiths@outlook.com
-
+<br />
+<br />
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
