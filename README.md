@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning - Java, Python
 - 🤓 If you wish to collaborate on any project, please reach out!
 - 📫 You can reach me here: christiegriffiths@outlook.com
-<br />
-<br />
+
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
