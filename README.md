@@ -1,7 +1,6 @@
 ### Hi there, I'm Christie 👋
 
 - 💻 I'm looking forward to landing my first job as a junior developer.
-- ✅ I love TDD! 
 - 🔄 I’m a career switcher who used to work as a carer.
 - 🔭 I’m currently working on Just Carrot - A tool for habit change that only involves carrots (no sticks!)
 - 🤓 If you wish to collaborate on any project, please reach out!
