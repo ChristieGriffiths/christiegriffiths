@@ -4,8 +4,7 @@
 - 🔄 I’m a career switcher who used to work as a carer.
 - 🔭 I’m currently working on Just Carrot - A tool for habit change that only involves carrots (no sticks!)
 - 🤓 If you wish to collaborate on any project, please reach out!
-- 📫 You can reach me here: christiegriffiths@outlook.com
-
+- 
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
